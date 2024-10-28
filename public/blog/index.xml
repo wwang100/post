@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on HugoCast</title>
+    <link>http://localhost:3279/blog/</link>
+    <description>Recent blogs in Blogs on HugoCast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:3279/blog/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>http://localhost:3279/blog/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://localhost:3279/blog/2020-12-01-r-rmarkdown/</guid>
+      <description>&amp;lt;div id=&amp;#34;r-markdown&amp;#34; class=&amp;#34;section level1&amp;#34;&amp;gt;
+&amp;lt;h1&amp;gt;R Markdown&amp;lt;/h1&amp;gt;
+&amp;lt;p&amp;gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &amp;lt;a href=&amp;#34;http://rmarkdown.rstudio.com&amp;#34; class=&amp;#34;uri&amp;#34;&amp;gt;http://rmarkdown.rstudio.com&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;You can embed an R code chunk like this:&amp;lt;/p&amp;gt;
+&amp;lt;pre class=&amp;#34;r&amp;#34;&amp;gt;&amp;lt;code&amp;gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div id=&amp;#34;including-plots&amp;#34; class=&amp;#34;section level1&amp;#34;&amp;gt;
+&amp;lt;h1&amp;gt;Including Plots&amp;lt;/h1&amp;gt;
+&amp;lt;p&amp;gt;You can also embed plots. See Figure &amp;lt;a href=&amp;#34;#fig:pie&amp;#34;&amp;gt;1&amp;lt;/a&amp;gt; for example:&amp;lt;/p&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>My fourth blog</title>
+      <link>http://localhost:3279/blog/my-fourth-blog/</link>
+      <pubDate>Tue, 01 Dec 2020 13:33:18 -0600</pubDate>
+      
+      <guid>http://localhost:3279/blog/my-fourth-blog/</guid>
+      <description>&amp;lt;p&amp;gt;YOLO keytar scenester, williamsburg etsy mlkshk neutra hexagon photo booth church-key messenger bag. Lyft small batch enamel pin, bicycle rights la croix migas chartreuse ramps microdosing authentic pickled gochujang kombucha. Wolf vaporware stumptown, glossier vinyl everyday carry organic. Subway tile af tumblr listicle photo booth meh trust fund tote bag. Post-ironic gentrify direct trade blue bottle, fingerstache master cleanse butcher. Succulents ethical leggings hexagon vexillologist migas you probably haven&amp;amp;rsquo;t heard of them keytar sustainable church-key viral salvia hell of kinfolk. Lumbersexual taiyaki la croix literally man bun, truffaut mustache godard edison bulb artisan keytar jianbing air plant swag polaroid.&amp;lt;/p&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>My third blog</title>
+      <link>http://localhost:3279/blog/my-third-blog/</link>
+      <pubDate>Sat, 21 Nov 2020 13:33:18 -0600</pubDate>
+      
+      <guid>http://localhost:3279/blog/my-third-blog/</guid>
+      <description>&amp;lt;p&amp;gt;YOLO keytar scenester, williamsburg etsy mlkshk neutra hexagon photo booth church-key messenger bag. Lyft small batch enamel pin, bicycle rights la croix migas chartreuse ramps microdosing authentic pickled gochujang kombucha. Wolf vaporware stumptown, glossier vinyl everyday carry organic. Subway tile af tumblr listicle photo booth meh trust fund tote bag. Post-ironic gentrify direct trade blue bottle, fingerstache master cleanse butcher. Succulents ethical leggings hexagon vexillologist migas you probably haven&amp;amp;rsquo;t heard of them keytar sustainable church-key viral salvia hell of kinfolk. Lumbersexual taiyaki la croix literally man bun, truffaut mustache godard edison bulb artisan keytar jianbing air plant swag polaroid.&amp;lt;/p&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>My second blog</title>
+      <link>http://localhost:3279/blog/my-second-blog/</link>
+      <pubDate>Thu, 12 Nov 2020 13:33:18 -0600</pubDate>
+      
+      <guid>http://localhost:3279/blog/my-second-blog/</guid>
+      <description>&amp;lt;p&amp;gt;YOLO keytar scenester, williamsburg etsy mlkshk neutra hexagon photo booth church-key messenger bag. Lyft small batch enamel pin, bicycle rights la croix migas chartreuse ramps microdosing authentic pickled gochujang kombucha. Wolf vaporware stumptown, glossier vinyl everyday carry organic. Subway tile af tumblr listicle photo booth meh trust fund tote bag. Post-ironic gentrify direct trade blue bottle, fingerstache master cleanse butcher. Succulents ethical leggings hexagon vexillologist migas you probably haven&amp;amp;rsquo;t heard of them keytar sustainable church-key viral salvia hell of kinfolk. Lumbersexual taiyaki la croix literally man bun, truffaut mustache godard edison bulb artisan keytar jianbing air plant swag polaroid.&amp;lt;/p&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>http://localhost:3279/blog/my-first-blog/</link>
+      <pubDate>Sun, 01 Nov 2020 13:27:00 -0600</pubDate>
+      
+      <guid>http://localhost:3279/blog/my-first-blog/</guid>
+      <description>&amp;lt;p&amp;gt;YOLO keytar scenester, williamsburg etsy mlkshk neutra hexagon photo booth church-key messenger bag. Lyft small batch enamel pin, bicycle rights la croix migas chartreuse ramps microdosing authentic pickled gochujang kombucha. Wolf vaporware stumptown, glossier vinyl everyday carry organic. Subway tile af tumblr listicle photo booth meh trust fund tote bag. Post-ironic gentrify direct trade blue bottle, fingerstache master cleanse butcher. Succulents ethical leggings hexagon vexillologist migas you probably haven&amp;amp;rsquo;t heard of them keytar sustainable church-key viral salvia hell of kinfolk. Lumbersexual taiyaki la croix literally man bun, truffaut mustache godard edison bulb artisan keytar jianbing air plant swag polaroid.&amp;lt;/p&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>
